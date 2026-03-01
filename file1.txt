@@ -1,3 +1,1 @@
-This is my file1.txt
-This is my First Git Practical
-My Name is Sneha Vishwakarma
+This is my First Practical
